@@ -1,1 +1,1 @@
-# CS-4795-Term-Project
+# CS-4795 AI Project
