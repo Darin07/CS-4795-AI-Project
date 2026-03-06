@@ -51,13 +51,7 @@ Rubik’s Cube Solution: https://www.kaggle.com/datasets/antbob/rubiks-cube-cfop
 
 IDA algorithm: https://www.geeksforgeeks.org/artificial-intelligence/iterative-deepening-a-algorithm-ida-artificial-intelligence/ 
 
- 
 
- 
-
- 
-
-GitHub: https://github.com/Darin07/CS-4795-AI-Project 
 
  
 
